@@ -1,0 +1,12 @@
+<!--?xml version="1.0" encoding="utf-8"?-->
+<resources>
+    <dimen name="activity_padding">3dp</dimen>
+    <dimen name="profile_margin">5dp</dimen>
+    <dimen name="profile_marginBorder">10dp</dimen>
+    <dimen name="profilepic_top">15dp</dimen>
+    <dimen name="profilepic_bottem">15dp</dimen>
+    <dimen name="profilepic_text_space">25dp</dimen>
+    <dimen name="skills_name">25dp</dimen>
+    <dimen name="name_top">15dp</dimen>
+
+</resources>
